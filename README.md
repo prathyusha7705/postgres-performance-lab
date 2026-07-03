@@ -1,6 +1,6 @@
 # PostgreSQL Performance Lab
 
-Real optimization techniques for high-volume PostgreSQL tables. Based on actual work at OnePay where I cut query times from 3-4 seconds to under 100ms on a 30 million row transactions table.
+Real optimization techniques for high-volume PostgreSQL tables. Based on real optimization patterns from production fintech systems — cut query times from 3-4 seconds to under 100ms on a 30 million row transactions table.
 
 ---
 
